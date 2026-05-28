@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsuetch",
+        "uuid": 37750700,
+        "checksum": "3i0uxe"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
